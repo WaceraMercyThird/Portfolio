@@ -172,6 +172,33 @@
     width: 30%;
 }
 .third{
-    background-color: #c0c025;
+    background-color: #ccf3ba;
     height: 100vh;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.l-footer img{
+    width: 56%;
+    height: 14vh;
+    font-size: 5px;
+    margin-top: 5%;
+}
+.l-footer h1{
+    font-size: 21px;
+    margin-top: 26%;
+    margin-left: -14%;
+}
+.icon{
+    /* background-color: #000; */
+    width: 8%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon i{
+    color: #0e6fee;
+    justify-content: space-around;
 }
